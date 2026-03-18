@@ -2,7 +2,7 @@
 name: COS511 FA Video Submission
 about: Use this template to submit your COS511 FA YouTube video link and summary.
 title: COS511 FA Submission - [Full Name]-  [Student Number] - [Campus]
-labels: ''
+labels: COS511, FA1, Video Submission
 assignees: ''
 
 ---
