@@ -10,14 +10,14 @@ assignees: ''
 # COS511 FA Video Submission
 
 ## Student Details
-**Full Name:**  
-**Student Number:**  
-**Campus / Class:**  
+**Full Name:** Fox Montshiwagae  
+**Student Number:** 20261452  
+**Campus / Class:** Vereeniging  
 
 ## YouTube Video Link
 Paste your **YouTube Unlisted** video link below:
 
-**Video Link:**  
+**Video Link:** https://www.youtube.com/watch?v=rzeCbWWz67c  
 
 ## Written Summary
 - **Overview of the components you identified and assembled:**  
